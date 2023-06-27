@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "cf08c634ea2e8beb",
+    "type": "split",
+    "children": [
+      {
+        "id": "72a731554a648f02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f18e152da56398f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "document/虚拟机/虚拟机安装macOS13.20.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "93d96244a73a10bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "document/Git/Git2.41安装和配置.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1b4e03d43fc8fdbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9e6c31a40384237",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd8dc4830d0c3622",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e6ae5179d50a3e64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "acca7f6299bde218",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264.5
+  },
+  "right": {
+    "id": "b2eb0dd7d62cbb43",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4302c0d1642a874",
+        "type": "tabs",
+        "dimension": 44.57364341085272,
+        "children": [
+          {
+            "id": "691af20a600789a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "document/虚拟机/虚拟机安装macOS13.20.md"
+              }
+            }
+          },
+          {
+            "id": "91500774db61674c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e2bc11feedbb7c8f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "8c8d88f53df9034d",
+        "type": "tabs",
+        "dimension": 55.42635658914728,
+        "children": [
+          {
+            "id": "474787bf47ef06f1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0e2051cb7752d214",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "document/虚拟机/虚拟机安装macOS13.20.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc7e58b12b7972f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "document/虚拟机/虚拟机安装macOS13.20.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "audio-recorder:开始/结束录音": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "691af20a600789a2",
+  "lastOpenFiles": [
+    "document/知识网站/免费知乎盐选分享.md",
+    "document/基本语法.md",
+    "document/虚拟机/虚拟机安装ubuntu20.04.md",
+    "document/虚拟机/虚拟机安装macOS13.20.md",
+    "document/虚拟机/annex/2023-06-23-18-58-30-image.png",
+    "document/虚拟机/annex/2023-06-23-19-18-57-image.png",
+    "document/虚拟机/annex/2023-06-23-19-11-59-image.png",
+    "document/虚拟机/annex/2023-06-23-19-10-23-image.png",
+    "document/虚拟机/annex/2023-06-23-19-08-55-image.png",
+    "document/虚拟机/annex/2023-06-23-19-05-29-image.png",
+    "document/虚拟机/annex/2023-06-23-19-05-08-image.png",
+    "document/虚拟机/annex/2023-06-23-19-03-08-image.png",
+    "document/虚拟机/annex/2023-06-23-19-01-05-image.png",
+    "document/虚拟机/annex/2023-06-23-18-56-47-image.png",
+    "document/虚拟机/images",
+    "document/Git/Git2.41安装和配置.md",
+    "新建文件夹",
+    "document/虚拟机/annex",
+    "document/虚拟机",
+    "document/知识网站",
+    "document/搞机",
+    "document/Git/annex",
+    "document/Git/上传项目到GitHub.md",
+    "document/Git",
+    "document"
+  ]
+}

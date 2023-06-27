@@ -1,0 +1,12 @@
+{
+  "defaultViewMode": "preview",
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "spellcheck": false,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./annex",
+  "showInlineTitle": false
+}
